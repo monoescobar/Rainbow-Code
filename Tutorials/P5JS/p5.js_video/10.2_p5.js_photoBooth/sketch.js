@@ -6,7 +6,7 @@ var vScale = 4;
 var total;
 
 function setup() {
-  createCanvas(800, 300);
+  createCanvas(1920, 1080);
   background(51);
   video = createCapture(VIDEO);
   //video.size(320, 240);
