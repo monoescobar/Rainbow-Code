@@ -9,7 +9,7 @@ function setup() {
   createCanvas(1920, 1080);
   background(51);
   video = createCapture(VIDEO);
-  //video.size(320, 240);
+  video.size(320, 240);
   // button = createButton('snap');
   // button.mousePressed(takesnap);
 }
